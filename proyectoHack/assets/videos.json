@@ -1,0 +1,29 @@
+{
+    "sample_media": {
+        "video1": {
+            "path": "proyectoHack/videos/video1.mp4",
+            "number_of_yes": 0,
+            "number_of_no": 0
+        },
+        "video2": {
+            "path": "proyectoHack/videos/video2.mp4",
+            "number_of_yes": 0,
+            "number_of_no": 0
+        },
+        "video3": {
+            "path": "proyectoHack/videos/video3.mp4",
+            "number_of_yes": 0,
+            "number_of_no": 0
+        },
+        "video4": {
+            "path": "proyectoHack/videos/video4.mp4",
+            "number_of_yes": 0,
+            "number_of_no": 0
+        },
+        "video5": {
+            "path": "proyectoHack/videos/video5.mp4",
+            "number_of_yes": 0,
+            "number_of_no": 0
+        }
+    }
+}
